@@ -1,3 +1,6 @@
 .yellow-text{
     color:yellow;
 }
+.carousel-item img{
+    margin:auto;
+}
